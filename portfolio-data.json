@@ -1,0 +1,123 @@
+{
+ "v": 1,
+ "template": "atlas",
+ "info": {
+  "nameKo": "리쥔",
+  "nameEn": "Li,Jun",
+  "email": "juni68526@gmail.com",
+  "insta": "",
+  "school": "호서대학교 실내디자인학과",
+  "titleKo": "공생둥지",
+  "titleEn": "Pet Co-living",
+  "subtitle": "반려 소셜 클럽",
+  "concept": "",
+  "keywords": [
+   "공간공생",
+   "행위공생",
+   "감정공생"
+  ],
+  "desc": "반려동물 공생은 사람과 반려동물이 같은 공간에서 조화롭게 공존하고, 서로 동반하며, 서로 방해하지 않고, 공공 환경을 함께 사용하는 생활과 소비 방식을 의미합니다.\n단순한 \"반려동물 출입 허용\"이 아니라, 공간 설계, 운영 관리, 서비스 지원 모두가 \"사람+반려동물\"의 공동 요구에 맞춰 이루어지며, 사람과 반려동물 모두 편안하고 안전하며 체험감을 느낄 수 있도록 합니다.",
+  "loc": "상하이",
+  "program": "공생공간",
+  "area": "",
+  "year": "2026",
+  "positioning": "",
+  "about": "",
+  "youtube": "https://youtu.be/vOebBdI7XCs?si=G7S3EDiKfIJza_k-",
+  "github": "li-jun",
+  "repoMode": "user",
+  "repo": "portfolio"
+ },
+ "brand": {
+  "c1": "#3B3A26",
+  "c2": "#E3DFCF",
+  "c3": "#8A9A5B",
+  "font": "editorial",
+  "bg": "default"
+ },
+ "motion": {
+  "intro": "curtain",
+  "reveal": "up",
+  "image": "none",
+  "progress": true,
+  "marquee": true,
+  "cursor": false
+ },
+ "sections": {
+  "concept": true,
+  "video": true,
+  "gallery": true,
+  "process": true,
+  "drawing": true,
+  "panel": true,
+  "about": true
+ },
+ "images": [
+  {
+   "out": "01-hero.jpg",
+   "name": "01.jpg",
+   "cat": "hero",
+   "caption": "",
+   "w": 1280,
+   "h": 579
+  },
+  {
+   "out": "02-diagram.jpg",
+   "name": "02.jpg",
+   "cat": "diagram",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "03-panel.jpg",
+   "name": "03.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "04-panel.jpg",
+   "name": "04.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "05-process.jpg",
+   "name": "05.jpg",
+   "cat": "process",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "06-panel.jpg",
+   "name": "06.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "07-panel.jpg",
+   "name": "07.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  },
+  {
+   "out": "08-panel.jpg",
+   "name": "08.jpg",
+   "cat": "panel",
+   "caption": "",
+   "w": 1280,
+   "h": 905
+  }
+ ],
+ "videos": [],
+ "savedAt": "2026-11-25T05:32:53.715Z"
+}
